@@ -23,3 +23,10 @@ p {
 p {
     color: yellow;
 }
+
+.lorem{
+    border: 1px solid red;
+    transform: translate(330px, 200px);
+    display: inline;
+    /* visibility: visible; */
+}
